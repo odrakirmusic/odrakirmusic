@@ -1,4 +1,5 @@
 An art project. Built on Odoo.
+
 Here's the fun part: this runs on an ERP. Enterprise software has a reputation. Capable, but not exactly where you go looking for beauty. The whole genre is built for spreadsheets, not soul.
 
 So this is a gentle provocation: what if you treated that foundation as a canvas? Odoo is, honestly, one of the best-looking ERPs out there already, a real head start, and this takes that and runs with it. Not a theme over the defaults, but a hand-built world, shaped page by page until it feels like nowhere else.
